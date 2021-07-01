@@ -62,7 +62,7 @@ module.exports = function (req, res, url) {
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <link rel="dns-prefetch" href="https://josephcrosmanplays532.github.io">
-<script>document.title='${title}'</script>
+<script>document.title='The Video Maker lets You make a video for YouTube for free! Drag &amp; drop or type &amp; go.  It's Fast, Fun, Easy and Free -  Wrapper Offline!'</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="The Video Maker lets You make a video for YouTube for free! Drag &amp; drop or type &amp; go.  It's Fast, Fun, Easy and Free -  Wrapper Offline!">
 <meta property="og:site_name" content="Vyond">
