@@ -54,7 +54,7 @@ module.exports = function (req, res, url) {
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <link rel="dns-prefetch" href="https://d2bm7x1jqouzel.cloudfront.net">
 <link rel="dns-prefetch" href="//d3v4eglovri8yt.cloudfront.net">
-<script>document.title='${title}'</script>
+<script>document.title='The Character Creator from Wrapper: Offline 1.2.3 - Create a character online with Wrapper: Offline 1.2.3.'</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="The Character Creator from Wrapper: Offline 1.2.3 - Create a character online with Wrapper: Offline 1.2.3.">
 <meta property="og:site_name" content="Wrapper: Offline 1.2.3">
