@@ -25,7 +25,7 @@ module.exports = function (req, res, url) {
 	var attrs, params, title;
 	switch (url.pathname) {
 	case '/videos/': {
-			title = 'Video Player - Vyond';
+			title = 'Video Player - Wrapper: Offline 1.2.3';
 		attrs = {
 				data: process.env.SWF_URL + '/player.swf',
 				type: 'application/x-shockwave-flash', width: '100%', height: '100%',
@@ -53,11 +53,11 @@ module.exports = function (req, res, url) {
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <link rel="dns-prefetch" href="//josephcrosmanplays532.github.io/">
-<script>document.title='${title}'</script>
+<script>document.title='Video Player - Wrapper: Offline 1.2.3'</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="title" content="Test - Joseph Animate 2021">
 <meta name="description" content="Watch the video: Test by Joseph Animate 2021 on GoAnimate.">
-<link rel="canonical" href="https://localhost:4343/player?movieId=m-16">
+<link rel="canonical" href="/player?movieId=m-16">
 <link rel="image_src" href="https://s3.amazonaws.com/fs.goanimate.com/files/thumbnails/movie/876/5682876/13801618.jpg">
 <link rel="video_src" href="https://josephcrosmanplays532.github.io/player/swf/m-16">
 <meta name="video_height" content="354">
