@@ -25,7 +25,7 @@ module.exports = function (req, res, url) {
 	var attrs, params, title;
 	switch (url.pathname) {
 		case '/charactercreator/': {
-			title = 'The Character Creator from Vyond - Make a character online';
+			title = 'The Character Creator from Wrapper: Offline 1.2.3 - Make a character online';
 			attrs = {	
 				data: process.env.SWF_URL + '/cc_browser.swf', // data: 'cc.swf',
 				type: 'application/x-shockwave-flash', id: 'char_creator', width: '960', height: '1200',
@@ -55,7 +55,7 @@ module.exports = function (req, res, url) {
 <link rel="dns-prefetch" href="https://josephcrosmanplays532.github.io">
 <script>document.title='${title}'</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="The Character Creator from Vyond - Create a character online with Vyond.">
+<meta name="description" content="The Character Creator from Wrapper: Offline 1.2.3 - Create a character online with Wrapper: Offline 1.2.3.">
 <meta property="og:site_name" content="Vyond">
 <meta property="fb:app_id" content="177116303202">
 <meta name="google-site-verification" content="K_niiTfCVi72gwvxK00O4NjsVybMutMUnc-ZnN6HUuA">
